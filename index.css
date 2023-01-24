@@ -1,0 +1,18 @@
+.form-control {width: 400px;}  
+.container-fluid {background-color: white;}
+.navbar {background-color: black;}
+
+.him {display: flex;
+justify-content: space-between;
+width: 90%;
+/* flex-wrap: wrap; */
+}
+.row {justify-content: space-around;}
+.footer {justify-content: center;
+justify-content: space-around;
+width: 80%px;
+height: 90%;}
+
+.map {text-align: center;}
+
+.button {width: 250px;}
